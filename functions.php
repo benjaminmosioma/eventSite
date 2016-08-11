@@ -1,8 +1,8 @@
 <?php // Example 26-1: functions.php
   $dbhost  = 'localhost';    
-  $dbname  = 'EventDB2';   // Modify these based on db u r using
-  $dbuser  = 'EventUser';   // ...varies according to event user
-  $dbpass  = 'nairobikenya';   // Use one u have created
+  $dbname  = '';   //create dbname
+  $dbuser  = '';   // create dbuser
+  $dbpass  = '';   // create db password
   $appname = "Events Center"; // not necessary. only if u want to create one
   $welcomenote = "Welcome";  // not necessary. only if u want to create one
 
